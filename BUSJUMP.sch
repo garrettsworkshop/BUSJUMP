@@ -1,14 +1,13 @@
 EESchema Schematic File Version 4
-LIBS:BUSJUMP-cache
 EELAYER 29 0
 EELAYER END
 $Descr USLetter 11000 8500
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
-Comp ""
+Title "BUSJUMP"
+Date "2019-07-21"
+Rev "1.0"
+Comp "Garrett's Workshop"
 Comment1 ""
 Comment2 ""
 Comment3 ""
